@@ -3,12 +3,3 @@ body {
     background-color: #f0f2f5; /* Light grayish-blue hex code */
 }
 
-/* Change the background color of a specific class */
-.card {
-    background-color: rgb(255, 255, 255); /* Pure white RGB value */
-}
-
-/* Change the background color of a button when hovered */
-button:hover {
-    background-color: hsl(210, 100%, 50%); /* Bright blue HSL value */
-}
